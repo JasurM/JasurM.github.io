@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+p {
+	font-family: times;
+	font-size: 12pt;
+	color: powderblue;
+}
+h1{
+	font-family: times;
+	font-size: 20pt;
+	color: blue;
+}
+h2{
+	font-family: times;
+	font-size: 17pt;
+	color: indigo;
+}
